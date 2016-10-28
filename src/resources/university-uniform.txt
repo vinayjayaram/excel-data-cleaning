@@ -1,0 +1,202 @@
+Harvard University
+Stanford University
+Massachusetts Institute of Technology
+Columbia University
+University of California, Berkeley
+University of Chicago
+Princeton University
+Yale University
+California Institute of Technology
+Cornell University
+University of Pennsylvania
+University of California, Los Angeles
+Johns Hopkins University
+University of California, San Diego
+University of California, San Francisco
+University of Michigan
+Northwestern University
+New York University
+University of Wisconsin– Madison
+University of Washington
+Rockefeller University
+Duke University
+University of Texas at Austin
+University of Illinois at Urbana– Champaign
+University of North Carolina at Chapel Hill
+University of Virginia
+Rutgers University
+University of Southern California
+University of Minnesota
+Ohio State University
+University of Pittsburgh
+University of California, Davis
+Dartmouth College
+Washington University in St. Louis
+Pennsylvania State University
+Purdue University
+University of California, Santa Barbara
+University of Florida
+Boston University
+University of Colorado Boulder
+University of Utah
+Carnegie Mellon University
+University of Maryland, College Park
+Vanderbilt University
+University of Rochester
+University of Arizona
+University of Texas Southwestern Medical Center
+Emory University
+University of Texas MD Anderson Cancer Center
+Georgia Institute of Technology
+Brown University
+University of California, Irvine
+University of Notre Dame
+Tufts University
+Texas A&M University
+Arizona State University
+Michigan State University
+Case Western Reserve University
+Rice University
+Baylor College of Medicine
+Georgetown University
+Indiana University
+- Bloomington
+University of Iowa
+University of Colorado Denver | Anschutz Medical Campus
+Southern Methodist University
+Icahn School of Medicine at Mount Sinai
+University of Alabama at Birmingham
+University of Miami
+University of California, Santa Cruz
+Stony Brook University
+Wake Forest University
+Oregon Health & Science University
+Yeshiva University
+University of South Florida
+University of Cincinnati
+University of Maryland, Baltimore
+University of Massachusetts Medical School
+University of Illinois at Chicago
+Indiana
+University-Purdue University Indianapolis
+Louisiana State University
+Wayne State University
+University of New Mexico
+University of Georgia
+Iowa State University
+University of Kansas
+George Washington University
+University of Massachusetts Amherst
+University of Missouri– Columbia
+North Carolina State University
+University of California, Riverside
+University of Connecticut
+Brandeis University
+University of Texas Health Science Center at Houston
+University of Houston
+University of Texas Health Science Center at San Antonio
+University of Tennessee, Knoxville
+Oregon State University
+Florida State University
+Virginia Commonwealth University
+Virginia Polytechnic Institute and State University
+University of Oklahoma
+Drexel University
+University of Kentucky
+University at Buﬀalo
+Thomas Jeﬀerson University
+Northeastern University
+Colorado State University
+Lehigh University
+University of Louisville
+Tulane University
+Rensselaer Polytechnic Institute
+University of South Carolina
+University of Delaware
+City College of New York
+Medical University of South Carolina
+Medical College of Wisconsin
+University of Nebraska–Lincoln
+University of Vermont
+Rush University
+Boston College
+University of Oregon
+Saint Louis University
+Colorado School of Mines
+Washington State University
+Kansas State University
+University of Texas Medical Branch at Galveston
+Wesleyan University
+College of William and Mary
+San Diego State University
+Temple University
+University of Alabama - Tuscaloosa
+University of Central Florida
+George Mason University
+University of New Hampshire
+University at Albany, SUNY
+Miami University
+University of Arkansas for Medical Sciences
+University of Nebraska Medical Center
+West Virginia University
+University of Hawaii at Manoa
+University of Texas at Dallas
+Loyola University Chicago
+Brigham Young University
+University of Mississippi
+Oklahoma State University
+University of Denver
+Syracuse University
+Augusta University
+University of Dayton
+Ohio University
+University of Wyoming
+Illinois Institute of Technology
+Georgia State University
+Clemson University
+University of Nevada, Reno
+Texas Tech University
+University of Maryland, Baltimore County
+University of Akron
+Auburn University
+University of Wisconsin– Milwaukee
+Creighton University
+University of Missouri–Kansas City
+Baylor University
+University of Arkansas - Fayetteville
+SUNY Downstate Medical Center
+New York Medical College
+Kent State University
+University of Alaska Fairbanks
+Montana State University
+New Mexico State University
+University of Montana
+Utah State University
+University of Toledo
+University of Rhode Island
+University of Texas at Arlington
+Florida International University
+Southern Illinois University Carbondale
+Mississippi State University
+Northern Illinois University
+Uniformed Services University of the Health Sciences
+University of New Orleans
+University of Idaho
+Old Dominion University
+State University of New York Upstate Medical University
+Binghamton University
+Portland State University
+University of Maine
+Albany Medical College
+Louisiana Tech University
+New Jersey Institute of Technology
+University of Nevada, Las Vegas
+University of Texas at San Antonio
+Rochester Institute of Technology
+Loma Linda University
+University of Missouri–St. Louis
+University of Alabama in Huntsville
+Missouri University of Science and Technology
+San Francisco State University
+North Dakota State University
+Florida Institute of Technology
